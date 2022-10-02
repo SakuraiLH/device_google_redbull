@@ -17,9 +17,6 @@
 <!-- Phone app resources that may need to be customized
      for different hardware or product builds. -->
 <resources>
-    <!-- The package name for the platform carrier config app, bundled with system image. -->
-    <string name="platform_carrier_config_package" translatable="false">com.google.android.carrier</string>
-
     <!-- The package names which can request thermal mitigation. -->
     <string-array name="thermal_mitigation_allowlisted_packages" translatable="false">
          <item>com.google.android.connectivitythermalpowermanager</item>
