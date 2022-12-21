@@ -1,3 +1,3 @@
--keep class org.kogasakyokai.settings.* {
+-keep class org.lineageos.settings.* {
   *;
 }

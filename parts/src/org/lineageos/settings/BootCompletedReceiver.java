@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.kogasakyokai.settings;
+package org.lineageos.settings;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

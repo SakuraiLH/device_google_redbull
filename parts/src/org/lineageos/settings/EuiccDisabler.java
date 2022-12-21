@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.kogasakyokai.settings;
+package org.lineageos.settings;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
